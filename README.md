@@ -1,0 +1,1 @@
+## Machine Learning project to predict the educational achievements for an indivisual based on multiple factors - socioeconomics, sociopolitics, geogrraphycal location, parents education level, community, race and ethinicity, etc
